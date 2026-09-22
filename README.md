@@ -1,27 +1,26 @@
 # Food Ordering System
 
 ## Description
-
-The Food Ordering System is a user-friendly application designed to make ordering food easier and more convenient. It allows users to browse available food items, select their desired orders, and manage their purchases through a simple and organized interface.
+The Food Ordering System (Fresh Bites Kitchen) is a user-friendly web application designed to make ordering meals easier and more convenient. It allows users to browse available food items, select their desired orders, and manage their purchases through a simple and organized interface.
 
 ## Features
-
-- Browse available food items
-- Select and add food to an order
-- Manage selected orders
-- View order details
-- Simple and user-friendly interface
-
-## Purpose
-
-This project was developed as a school project to demonstrate programming, system design, and problem-solving skills while creating a practical food ordering application.
+- Browse available food items by category (Pizza, Burgers, etc.)
+- Select branch location and view address
+- Add food items to cart
+- View order details and total
+- Simple and responsive user-friendly interface
 
 ## Technologies Used
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
-## Author
+## Live Demo & Usage
+1. Visit the live website: [Fresh Bites Kitchen](https://lenabahian-commits.github.io/food-ordering-system/)
+2. Select a branch, browse menu items, and add items to your cart to test ordering.
 
-**Lena Bahi-an**
+## Purpose
+This project was developed as a school project to demonstrate programming, system design, and problem-solving skills while creating a practical food ordering application.
+
+## Author
+Lena Bahi-an - BSIT Student, Central Philippines State University
