@@ -16,7 +16,7 @@ The Food Ordering System (Fresh Bites Kitchen) is a user-friendly web applicatio
 - JavaScript
 
 ## Live Demo & Usage
-1. Visit the live website: [Fresh Bites Kitchen](https://lenabahian-commits.github.io/food-ordering-system/)
+1. Visit the live website: [Fresh Bites Kitchen](https://lenabahian-commits.github.io/Simulation-/)
 2. Select a branch, browse menu items, and add items to your cart to test ordering.
 
 ## Purpose
